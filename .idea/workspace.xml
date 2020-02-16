@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8736275d-9f2d-408d-bc51-879bde7f8835" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1V0niwMsl7ivKy4Fr4FAGCEi0Sy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8736275d-9f2d-408d-bc51-879bde7f8835" name="Default Changelist" comment="" />
+      <created>1576399010510</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576399010510</updated>
+      <workItem from="1576399012991" duration="16264000" />
+      <workItem from="1576464820122" duration="704000" />
+      <workItem from="1576990279518" duration="10972000" />
+      <workItem from="1577023725184" duration="2406000" />
+      <workItem from="1577072299811" duration="18321000" />
+      <workItem from="1577205265856" duration="2850000" />
+      <workItem from="1577240251445" duration="5092000" />
+      <workItem from="1577255032404" duration="604000" />
+      <workItem from="1577281861995" duration="3673000" />
+      <workItem from="1577330634335" duration="7304000" />
+      <workItem from="1577351078200" duration="1621000" />
+      <workItem from="1577376899095" duration="599000" />
+      <workItem from="1577429475517" duration="1117000" />
+      <workItem from="1577432481942" duration="689000" />
+      <workItem from="1577531664264" duration="5000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="666" y="358" width="616" height="397" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577002444616">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="666" y="358" width="616" height="397" key="#com.intellij.fileTypes.FileTypeChooser/38.27.1882.1053@38.27.1882.1053" timestamp="1577002444616" />
+    <state x="762" y="311" width="424" height="491" key="FileChooserDialogImpl" timestamp="1577027786457">
+      <screen x="38" y="27" width="1882" height="1053" />
+    </state>
+    <state x="762" y="311" width="424" height="491" key="FileChooserDialogImpl/38.27.1882.1053@38.27.1882.1053" timestamp="1577027786457" />
+  </component>
+</project>
